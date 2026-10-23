@@ -1,0 +1,1 @@
+This branch exists for spin's end-to-end tests: they open a workspace at refs/pull/<n>/head of the pull request that holds it, which stays open on purpose. Do not merge or close it.
